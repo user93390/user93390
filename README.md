@@ -7,6 +7,7 @@ projects (java)
 
 projects (python)
 1. Custom file reader to read files without you having to open them!
+2. Python minute conversion project
 
 
 I will make more projects soon!
