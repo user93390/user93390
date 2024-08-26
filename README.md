@@ -1,13 +1,1 @@
-Welcome to my Readme!😀
-
-I am currently programming python and java as of 2024/6/19
-
-projects (java)
-1. Snail++ - A addon for the 'Meteor Development' api
-
-projects (python)
-1. Custom file reader to read files without you having to open them!
-2. Python minute conversion project
-
-
-I will make more projects soon!
+[![My account stats](https://github-readme-stats.vercel.app/api?username=user93390)](https://github.com/anuraghazra/github-readme-stats)
