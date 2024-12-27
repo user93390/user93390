@@ -1,3 +1,3 @@
-![My Account Stats](https://github-readme-stats.vercel.app/api?username=user93390&show_icons=true&theme=omni)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
