@@ -8,8 +8,7 @@
 <h2>Programming Languages that you see me use</h2>
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) \
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) \
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
 
 <p>Rust is my second language I picked up. I use rust in performance-critical situations. Rust's perspective of programming has changed how I write code in general.</p>
 <p>I prefer Java as its syntax is clean and concise. The usage of Java in enterprise is also very attracting.</p>
