@@ -17,6 +17,6 @@
 
 <p>This is my github profile that you'll see me use. Though I primarly use gitlab as it exceeds my ci/cd needs. I use this profile for contributing, research & sometimes mirroring my projects.</p>
 
-<p>Rust is a strongly typed langauge that requires strong desipline. Rust by far has one of the stongest standard libraries I've ever seen; with deep documentation & resources</p>
+<p>Rust is a strongly typed langauge that requires strong desipline. Rust by far has one of the stongest standard libraries I've ever seen; with deep documentation & resources.</p>
 <p>Honestly kotlin is very underrated as a programming language. Kotlin allows you target multiple targets such as the JVM & LLVM.</p>
 <br clear="left"/>
